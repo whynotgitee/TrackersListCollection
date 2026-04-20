@@ -12,6 +12,8 @@ http://tracker.exe.in.th:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -21,6 +23,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker3.ctix.cn:8080/announce
 
 https://1337.abcvg.info:443/announce
+
+https://http1.torrust-tracker-demo.com:443/announce
 
 https://opentracker.8880085.xyz:443/announce
 
@@ -34,8 +38,6 @@ https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -48,8 +50,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.yggleak.top:443/announce
 
 https://tracker.zhuqiy.com:443/announce
@@ -57,8 +57,6 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://admin.52ywp.com:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -68,7 +66,7 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -81,6 +79,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -99,8 +99,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -140,13 +138,13 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://tracker.wildkat.net:6969/announce
 
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.nartlof.com:6969/announce
 
