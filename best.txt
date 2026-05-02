@@ -28,8 +28,6 @@ https://http1.torrust-tracker-demo.com:443/announce
 
 https://shahidrazi.online:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
