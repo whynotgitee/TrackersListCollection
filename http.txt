@@ -1,14 +1,8 @@
 http://004430.xyz:80/announce
 
-http://0123456789nonexistent.com:80/announce
-
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
@@ -18,15 +12,19 @@ http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt2.archive.org:6969/announce
+http://bt1.xxxxbt.cc:6969/announce
+
+http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://retracker.spark-rostov.ru:80/announce
+
+http://seeders-paradise.org:80/announce
+
+http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -36,9 +34,11 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -50,6 +50,8 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -58,7 +60,9 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.tritan.gg:8080/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -74,7 +78,7 @@ http://tracker3.ctix.cn:8080/announce
 
 http://vito-tracker.space:6969/announce
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -85,8 +89,6 @@ https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -108,8 +110,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.manager.v6.navy:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
@@ -117,8 +117,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
-
-https://tracker.yggleak.top:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
