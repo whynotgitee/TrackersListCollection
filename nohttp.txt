@@ -44,6 +44,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://opentor.org:2710/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -84,9 +86,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dorcus.digital:1337/announce
 
+udp://tracker.ducks.party:1984/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -95,6 +101,8 @@ udp://tracker.hismz.cn:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
@@ -135,8 +143,6 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
