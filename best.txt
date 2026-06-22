@@ -16,8 +16,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -46,7 +44,7 @@ https://tracker.7471.top:443/announce
 
 https://tracker.anibt.net:443/announce
 
-https://tracker.bigbewbs.online:443/announce
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -90,6 +88,10 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://seedpeer.net:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
+udp://torrentclub.online:1984/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
@@ -108,7 +110,9 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -132,13 +136,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://udp.tracker.projectk.org:23333/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
