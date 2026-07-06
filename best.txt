@@ -16,6 +16,8 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -72,6 +74,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -104,8 +108,6 @@ udp://torrents.tmtime.dev:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -121,8 +123,6 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -149,8 +149,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://zer0day.ch:1337/announce
 
