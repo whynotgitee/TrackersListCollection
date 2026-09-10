@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -16,19 +18,11 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://buny.uk:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
-
-http://shubt.net:2710/announce
-
-http://supertracker.cc.cd:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -98,8 +92,6 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
-https://tracker.adgk.net:443/announce
-
 https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -149,8 +141,6 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
-
-udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -211,8 +201,6 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
