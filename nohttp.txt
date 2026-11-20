@@ -72,8 +72,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://tracker.23794.top:6969/announce
-
 udp://tracker.alt.cx:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -124,9 +122,9 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
