@@ -76,10 +76,6 @@ https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://track3r.site:443/announce
@@ -95,6 +91,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.nekomi.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
