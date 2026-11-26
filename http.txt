@@ -14,8 +14,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.cl:1337/announce
 
-http://opentracker.lain.moscow:6969/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -26,8 +24,6 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -37,8 +33,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.okade.pro:1337/announce
 
@@ -70,6 +64,8 @@ https://1337.abcvg.info:443/announce
 
 https://ht.therarbg.to:443/announce
 
+https://lattice.peerrelay.workers.dev:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
@@ -77,6 +73,8 @@ https://t.213891.xyz:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
