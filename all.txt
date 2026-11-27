@@ -34,6 +34,8 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.okade.pro:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -64,8 +66,6 @@ https://1337.abcvg.info:443/announce
 
 https://ht.therarbg.to:443/announce
 
-https://lattice.peerrelay.workers.dev:443/announce
-
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
@@ -75,6 +75,8 @@ https://t1.hloli.org:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -128,8 +130,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://hidden.torrentonline.cc:42069/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -182,11 +182,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://tracker.alt.cx:6969/announce
-
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.bunk.im:6969/announce
 
@@ -209,8 +205,6 @@ udp://tracker.evergarden.uk:1914/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
